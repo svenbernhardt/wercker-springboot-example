@@ -40,7 +40,7 @@
         </h1>
       </div>
 
-      <div class="blueBannerButton"></div>
+      <div class="blueBannerButton"></div> 
     </div>
   </div>
 
@@ -49,7 +49,7 @@
   <div class="container serviceContainer" style="margin-top: 150px;">
     <div class="overviewLayout">
       <div>
-              <br>SpringBoot application demo by SVEN BERNHARDT. Current server time: <%= new java.util.Date() %> <br>
+              <br>SpringBoot application demo. Current server time: <%= new java.util.Date() %> <br>
               <br>
               <p>
                 <span style="color: #333; text-decoration: none">Build faster and release often with Wercker's Docker-Native 
